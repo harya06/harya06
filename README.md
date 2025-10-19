@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="httpsE://via.placeholder.com/1280x400.png?text=Selamat+Datang+di+Profil+Saya" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=220&section=header&text=Harya%20Susanta&fontSize=70&animation=fadeIn&fontAlignY=38&desc=IoT%20&%20Robotics%20Enthusiast&descAlignY=51&descAlign=62" alt="Header Banner"/>
 </p>
 
 <h1 align="center">Halo 👋, Saya Harya Susanta</h1>
@@ -37,10 +37,11 @@
 ### 📬 Hubungi Saya
 
 <p align="left">
-<a href="https://linkedin.com/in/harya-susanta" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in.svg" alt="username-linkedin-anda" height="30" width="40" />
-</a>
-<a href="mailto:haryasanta@gmail.com" target="blank">
-  <img align="center" src="https://simpleicons.org/icons/gmail.svg" alt="haryasanta@gmail.com" height="30" width="40" style="background-color:white; border-radius:4px;" />
-</a>
+  <a href="mailto:haryasanta@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  
+  <a href="https://linkedin.com/in/harya-susaanta" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </p>
