@@ -37,7 +37,7 @@
 ### 📬 Hubungi Saya
 
 <p align="left">
-<a href="[https://linkedin.com/in/harya-susanta](https://www.linkedin.com/in/harya-susanta-30199b33b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="blank">
+<a href="https://linkedin.com/in/harya-susanta" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in.svg" alt="username-linkedin-anda" height="30" width="40" />
 </a>
 <a href="mailto:haryasanta@gmail.com" target="blank">
