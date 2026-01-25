@@ -3,10 +3,19 @@
 </p>
 
 <p align="left">
-  Saya seorang mahasiswa <b>Teknik Elektro</b> di <b>Universitas Negeri Yogyakarta</b>. Saya memiliki ketertarikan mendalam pada dunia Internet of Things (IoT), robotika (seperti tim saya di AI-'Aadiyaat KRSBI-H), dan pengembangan perangkat lunak.
+Saya adalah mahasiswa <b>Teknik Elektro</b> di <b>Universitas Negeri Yogyakarta</b> dengan fokus pada <b>Internet of Things (IoT)</b>, <b>robotika</b>, dan <b>pengembangan sistem embedded</b>. 
+Ketertarikan saya berada pada perancangan sistem end-to-end: mulai dari <i>perangkat keras, firmware, komunikasi data</i>, hingga <i>backend dan antarmuka monitoring</i>.
 </p>
+
 <p align="left">
-  🌱 Saat ini saya sedang fokus memperdalam C++ untuk sistem embedded dan Node.js untuk backend IoT.
+Dalam robotika, saya terlibat pada pengembangan sistem kontrol dan integrasi sensor pada tim <b>AI-'Aadiyaat KRSBI-H</b>. 
+Sementara pada IoT, saya banyak mengerjakan pengolahan data sensor, komunikasi perangkat, serta visualisasi data untuk kebutuhan monitoring dan konfigurasi sistem.
+</p>
+
+<p align="left">
+Saat ini saya memperdalam  <b>C</b> dan  <b>C++</b> untuk pengembangan <i>sistem embedded</i> dan <i>robotika</i>, serta <b>Node.js</b> untuk backend <b>IoT<b>. 
+<b>HTML dan CSS</b> saya gunakan secara fungsional sebagai <i>antarmuka web</i> (dashboard, device configuration, monitoring), bukan sebagai fokus utama frontend design.
+Selain itu, saya juga mendalami <b>Python</b> untuk kebutuhan <i>pemrosesan data</i>, <i>prototyping algoritma</i>, serta integrasi dengan sistem robotika dan IoT.
 </p>
 
 <hr>
@@ -30,6 +39,14 @@
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
     <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+      <!-- HTML -->
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+    </a>
+
 </p>
 
 <hr>
